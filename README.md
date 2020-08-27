@@ -10,7 +10,7 @@
 
 # 配置場所
 
-同封のja-JA.locPakを下記の通りに配置してください。
+同封のja-JP.locPakを下記の通りに配置してください。
 
 SteamLibrary/steamapps/common/MicrosoftFlightSimulator/Packages/fs-base-onboarding/
 
